@@ -4,12 +4,6 @@ DallE Implementation in pytorch with generation using mingpt
 This repository implements DallE-1 [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) on a synthetic dataset of mnist colored numbers on textures/solid background .
 
 
-## DallE Tutorial Video
-<a href="https://www.youtube.com/watch?v=wX5LP8n9WAQ">
-   <img alt="DallE Tutorial" src="https://github.com/explainingai-code/Dalle-Pytorch/assets/144267687/5a3af0f0-6b9c-48bc-becb-1d06e6095ada"
-   width="300">
-</a>
-
 ## Sample from dataset
 
 <img src="https://github.com/explainingai-code/DallE/assets/144267687/57e3c091-4600-401d-a5a4-52ea5fda3249" width="300">
